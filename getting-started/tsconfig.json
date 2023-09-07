@@ -1,0 +1,8 @@
+{
+    "compilerOptions": {
+        "allowJs": true,    // 자바스크립트 허용여부
+        "checkJs": true,    // js에서 @ts-check를 활용하여 @typedef 허용 여부
+        "noImplicitAny": true,  // 타입 필수 여부
+
+    }
+}
